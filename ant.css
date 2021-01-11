@@ -1,0 +1,82 @@
+/* TinyBBS default lime CSS. */
+body {
+    background-color:#c4ddec;
+}
+
+.body {
+    background-color:#c4ddec;
+}
+
+.codebox {
+    color: #8b8b8b;
+}
+
+span.quote {
+    color:#3c6d8a;
+}
+
+.highlighted {
+    background-color:#fff;
+}
+
+.spoiler {
+    background-color:#000;
+}
+
+.spoiler:hover {
+    color:#fff;
+}
+
+.border {
+    background-color:#c4ddec
+    border:3px dashed #94b8cd;
+}
+
+.highlight {
+    background-color:#ffff;
+}
+
+a {
+    color:#000;
+}
+
+#notice {
+    background-color:#94b8cd;
+    border:2px solid #94b8cd;
+}
+
+h3 {
+    background-color:#94b8cd;
+}
+
+input[type="text"]:focus,input[type="password"]:focus,textarea:focus {
+    outline:1px solid #eaffe8;
+}
+
+ul#main_menu {
+    background-color:#94b8cd;
+}
+
+table th {
+    background-color:#94b8cd;
+}
+
+table td {
+    background-color:#c4ddec;
+}
+
+table tr.odd td {
+    background-color:#c4ddec;
+}
+
+table tr:hover td {
+    background-color:#fff;
+}
+
+em.marked {
+    background-color:#ff9;
+}
+
+#last_seen_marker {
+    border-top:2px solid #94b8cd;
+}
